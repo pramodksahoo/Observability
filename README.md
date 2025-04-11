@@ -89,10 +89,10 @@
 ## 🎛️ Instrumentation
 **Instrumentation** adds monitoring capabilities to applications by embedding code or using tools to collect metrics, logs, and traces.
 
-### 🎯 Purpose
+### 🎯 Purpose of Instrumentation:
 - **Visibility**: Understand internal application/infrastructure state.
-- **Metrics**: Track health/performance (CPU, errors, request rates).
-- **Troubleshooting**: Diagnose issues quickly.
+- **Metrics Collection**: Track health/performance (CPU, errors, request rates).By collecting key metrics like CPU usage, memory consumption, request rates, error rates, etc., you can understand the health and performance of your system.
+- **Troubleshooting**: When something goes wrong, instrumentation allows you to diagnose the issue quickly by providing detailed insights..
 
 ### ⚙️ How It Works
 - **Code-Level**: Add libraries (e.g., `prom-client` for Node.js) to expose metrics.
