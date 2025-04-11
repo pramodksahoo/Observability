@@ -17,6 +17,8 @@
 - Tracks the flow of a request/transaction across services and components.
 - **Purpose**: Shows _how_ it is happening.
 
+![architecture](https://github.com/user-attachments/assets/1ff3470d-bb61-4ed6-bd3a-f4bc1baba881)
+
 ---
 
 ## Monitoring vs. Observability: Key Differences
@@ -64,8 +66,6 @@
 ### Observability Tools
 - **Logs**: ELK Stack (Elasticsearch, Logstash, Kibana), EFK Stack, Splunk.
 - **Traces**: Jaeger, Zipkin, New Relic, Dynatrace, Datadog.
-  
-![architecture](https://github.com/user-attachments/assets/1ff3470d-bb61-4ed6-bd3a-f4bc1baba881)
 
 
 ---
