@@ -58,13 +58,13 @@
 
 ---
 
-## ⚒️ Tools
+## ⚒️ What are the Tools Available?
 
 ### Monitoring Tools
 - Prometheus, Grafana, Nagios, Zabbix, PRTG.
 
 ### Observability Tools
-- **Logs**: ELK Stack (Elasticsearch, Logstash, Kibana), EFK Stack, Splunk.
+- **Logs**: ELK Stack (Elasticsearch, Logstash, Kibana), EFK Stack (Elasticsearch, FluentBit, Kibana), Splunk.
 - **Traces**: Jaeger, Zipkin, New Relic, Dynatrace, Datadog.
 
 
